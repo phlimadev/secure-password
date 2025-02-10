@@ -41,7 +41,3 @@ HTTP/1.1 400 Bad Request
 - Verificar se a senha contém pelo menos uma letra minúscula.
 - Verificar se a senha contém pelo menos um dígito numérico.
 - Verificar se a senha contém pelo menos um caractere especial (e.g, !@#$%).
-
-## Soluções
-
-Neste [tópico](SOLUTIONS.md), você encontrará soluções para esse desafio, feitas por outros membros da comunidade.
